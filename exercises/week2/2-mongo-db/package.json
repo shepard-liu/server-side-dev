@@ -1,0 +1,17 @@
+{
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shepard_liu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongodb": "^4.0.7",
+    "@types/node": "^16.7.1",
+    "assert": "^2.0.0",
+    "mongodb": "^4.1.0"
+  }
+}
